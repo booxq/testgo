@@ -1,0 +1,2 @@
+# testgo
+learning go
